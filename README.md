@@ -63,5 +63,3 @@ Exploring unified training across datasets and attention-based mechanisms to enh
 - BIOSCOPE dataset: Vincze et al., 2008
 - Negation detection techniques: Yoshida et al., 2024
 
-## License
-This project is licensed under the MIT License. See `LICENSE` for more details.
